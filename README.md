@@ -1,4 +1,4 @@
-# 멋쟁이 사자처럼 Front-End BootCamp 13기: 자바스크립트 프로그래밍
+# 멋쟁이 사자처럼 Front-End BootCamp 13기: 자바스크립트 프로그래밍 
 * 예제 테스트(GitHub Page): <https://febc-13.github.io/JS/workspace-ins>
 
 # 개발 환경 구축
